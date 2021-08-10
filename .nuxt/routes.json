@@ -1,0 +1,128 @@
+[
+  {
+    "name": "index___ar",
+    "path": "/ar",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e4bdeb0c"
+  },
+  {
+    "name": "blank-page___en",
+    "path": "/blank-page",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_465007f0"
+  },
+  {
+    "name": "contact___en",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_ca4e2a70"
+  },
+  {
+    "name": "index___de",
+    "path": "/de",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e4bdeb0c"
+  },
+  {
+    "name": "index___id",
+    "path": "/id",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e4bdeb0c"
+  },
+  {
+    "name": "index___pt",
+    "path": "/pt",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e4bdeb0c"
+  },
+  {
+    "name": "index___zh",
+    "path": "/zh",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e4bdeb0c"
+  },
+  {
+    "name": "blank-page___ar",
+    "path": "/ar/blank-page",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_465007f0"
+  },
+  {
+    "name": "contact___ar",
+    "path": "/ar/contact",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_ca4e2a70"
+  },
+  {
+    "name": "blank-page___de",
+    "path": "/de/blank-page",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_465007f0"
+  },
+  {
+    "name": "contact___de",
+    "path": "/de/contact",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_ca4e2a70"
+  },
+  {
+    "name": "blank-page___id",
+    "path": "/id/blank-page",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_465007f0"
+  },
+  {
+    "name": "contact___id",
+    "path": "/id/contact",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_ca4e2a70"
+  },
+  {
+    "name": "blank-page___pt",
+    "path": "/pt/blank-page",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_465007f0"
+  },
+  {
+    "name": "contact___pt",
+    "path": "/pt/contact",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_ca4e2a70"
+  },
+  {
+    "name": "blank-page___zh",
+    "path": "/zh/blank-page",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_465007f0"
+  },
+  {
+    "name": "contact___zh",
+    "path": "/zh/contact",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_ca4e2a70"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "C:\\\\Users\\\\rpr29\\\\Downloads\\\\themeforest-wNTXSPcr-veluxi-vue-js-landing-page-collection\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e4bdeb0c"
+  }
+]
